@@ -22,4 +22,9 @@
 * [JavaScript Tutorial](https://www.javascripttutorial.net/) 
 * [tutorialspoint](https://www.tutorialspoint.com/javascript/index.htm)   
 * [Guru99](https://www.guru99.com/interactive-javascript-tutorials.html)   
-* [TutorialsTeacher](https://www.tutorialsteacher.com/javascript/javascript-tutorials)                          
+* [TutorialsTeacher](https://www.tutorialsteacher.com/javascript/javascript-tutorials)     
+
+## Concepts     
+* [Object-oriented Programming in JavaScript: Made Super Simple | Mosh - YouTube](https://www.youtube.com/watch?v=PFmuCDHHpwk)  
+* [7 JavaScript Concepts That Every Web Developer Should Know](https://www.geeksforgeeks.org/7-javascript-concepts-that-every-developer-must-know/)
+                   
