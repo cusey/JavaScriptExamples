@@ -27,4 +27,10 @@
 ## Concepts     
 * [Object-oriented Programming in JavaScript: Made Super Simple | Mosh - YouTube](https://www.youtube.com/watch?v=PFmuCDHHpwk)  
 * [7 JavaScript Concepts That Every Web Developer Should Know](https://www.geeksforgeeks.org/7-javascript-concepts-that-every-developer-must-know/)
+* [Introduction to Object Oriented Programming in JavaScript - geeksforgeeks](https://www.geeksforgeeks.org/introduction-object-oriented-programming-javascript/)  
+* [JavaScript OOP Crash Course (ES5 & ES6)](https://www.youtube.com/watch?v=vDJpGenyHaA)     
+
+## Extras
+* [Execute Python Script From Node Js | Without Any External Library](https://www.youtube.com/watch?v=aoMzOgiE7rY)    
+* [Combining Nodejs and Python | Very Powerful | Get Json Data | Tutorial](https://www.youtube.com/watch?v=hb1O6lCzarw)    
                    
